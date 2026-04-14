@@ -1,0 +1,6 @@
+Apifel DIGi Translator
+Developed by Jahid Hasan
+Website: https://jahid.us
+Company: Apifel DIGi - https://apifeldigi.com
+
+Based on RTranslator, originally by Luca Martino (niedev), licensed under Apache 2.0.
